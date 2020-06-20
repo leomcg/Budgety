@@ -1,4 +1,4 @@
-#This app is up and running!
+# This app is up and running!
 https://leomcg.github.io/bugdet-app/
 
 # bugdet-app
